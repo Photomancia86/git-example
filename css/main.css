@@ -3,3 +3,9 @@
   font-weight: bold;
   font-size: 14;
 }
+
+.body{
+  font-style: oblique;
+  margin-right: auto;
+  padding-right: 5;
+}
